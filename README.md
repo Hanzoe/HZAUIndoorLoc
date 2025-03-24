@@ -54,5 +54,6 @@ Dataset can be downloaded from the following link:
 
 ## Visualization
 
-![Buildings (0, 1, and 2) used for dataset collection at Huazhong Agricultural University.](figures/f10.png)
+![Buildings (0, 1, and 2) used for dataset collection at Huazhong Agricultural University.](f10-2.png)
+Buildings (0, 1, and 2) used for dataset collection at Huazhong Agricultural University.
 
